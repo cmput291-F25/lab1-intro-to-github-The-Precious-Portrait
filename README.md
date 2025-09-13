@@ -2,4 +2,4 @@
 Name: Karanveer Sedha
 CCID: ksedha
 Lecture: A1
-Lab: B-10
+Lab: D10
